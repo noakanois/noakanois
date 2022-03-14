@@ -4,7 +4,7 @@
 
 <img align="right" src="https://lichess1.org/game/export/gif/black/ozsnbmZN.gif" width="50%" height="50%"/>
 
-<h3 align="left">I'm a math student with a passion for software engineering, especially Data Science and Data Engineering. </h3>
+<h3 align="left">I'm a math student working as a Software Engineer / Data Engineer. </h3>
 
 ## [My ELO Converter](https://github.com/noakanois/Chesscom_Lichess_ELO_converter)
 
