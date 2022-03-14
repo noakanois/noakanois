@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate on Data Science projects in the world of Chess
 - ❤️ Passionate for Data Engineering and Data Science
 - 💬 Ask me about Shoes
-- 📊 If Data is involved I'm in
+- 📊 If web scraping is involved I'm in
 - 🥅 Goal for 2022: Learn Scala
 - 👴 Life Goal: Bulding an AI which plays Chess like me (Crazy and suboptimal, but exciting)
 
