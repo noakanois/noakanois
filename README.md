@@ -2,7 +2,7 @@
 
 <h3 align="left">I'm a math student with a passion for software engineering, especially Data Science and Data Engineering. </h3>
 
-- 𝛑 Have you heard the latest stats joke?
+- 𝛑 Have you heard the latest statistics joke?
       Probably…
       
 - ♟️ I’m addicted to Chess, the NFL and Sneakers
