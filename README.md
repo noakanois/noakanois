@@ -1,5 +1,7 @@
 <img align="right" src="https://lichess1.org/game/export/gif/black/ozsnbmZN.gif" width="50%" height="50%"/>
 
+# Hi, I'm Noah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 <h3 align="left">I'm a math student with a passion for software engineering, especially Data Science and Data Engineering. </h3>
 
 - 𝛑 Have you heard the latest statistics joke?
