@@ -2,6 +2,8 @@
 
 ![Game](https://lichess1.org/game/export/gif/black/ozsnbmZN.gif)
 
+<img src="https://lichess1.org/game/export/gif/black/ozsnbmZN.gif" width="50%" height="50%"/>
+
 <!--
 **noakanois/noakanois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
