@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Game](https://lichess1.org/game/export/gif/black/ozsnbmZN.gif)
-
 <img src="https://lichess1.org/game/export/gif/black/ozsnbmZN.gif" width="50%" height="50%"/>
 
 <!--
