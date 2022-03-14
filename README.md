@@ -6,9 +6,7 @@
 
 ## [ELO Converter](https://github.com/noakanois/Chesscom_Lichess_ELO_converter)
 
-- 𝛑 Have you heard the latest statistics joke?
-      Probably…
-      
+- 𝛑 Have you heard the latest statistics joke? Probably…      
 - ♟️ I’m addicted to Chess, the NFL and Sneakers
 - 👯 I’m looking to collaborate on Data Science projects in the world of Chess
 - ❤️ Passionate for Data Engineering and Data Science
