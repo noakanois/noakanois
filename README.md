@@ -4,6 +4,8 @@
 
 <h3 align="left">I'm a math student with a passion for software engineering, especially Data Science and Data Engineering. </h3>
 
+## [ELO Converter](https://github.com/noakanois/Chesscom_Lichess_ELO_converter)
+
 - 𝛑 Have you heard the latest statistics joke?
       Probably…
       
