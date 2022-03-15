@@ -16,7 +16,7 @@
 - ❤️ Passionate for Data Engineering and Data Science
 - 💬 Ask me about Shoes
 - 📊 If web scraping is involved I'm in
-- 🥅 Goal for 2022: Learn Scala
+- 🥅 Goal for 2022: Learn Scala, work more with Spark
 - 👴 Life Goal: Bulding an AI which plays Chess like me (Crazy and suboptimal, but exciting)
 
 
