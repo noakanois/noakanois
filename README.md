@@ -4,30 +4,26 @@
 
 <img align="right" src="https://lichess1.org/game/export/gif/black/ozsnbmZN.gif" width="50%" height="50%"/>
 
-<h3 align="left">I'm a math person working as a Software Engineer / Data Engineer. </h3>
+<h3 align="left">I'm a Software Engineer / Data Engineer. </h3>
 
 ## [My ELO Converter](https://github.com/noakanois/Chesscom_Lichess_ELO_converter)
 
 
 
-- 𝛑 Have you heard the latest statistics joke? Probably…      
-- ♟️ I’m addicted to Chess, the NFL and Sneakers
-- 👯 I’m looking to collaborate on Data Science projects in the world of Chess
-- ❤️ Passionate for Data Engineering and Data Science
-- 💬 Ask me about Shoes
-- 📊 If web scraping is involved I'm in
-- 🥅 Goal for 2022: Learn Scala, work more with Spark
-- 👴 Life Goal: Bulding an AI which plays Chess like me (Crazy and suboptimal, but exciting)
+Some readings/listenings I recommend:
 
+Communication:
+- 📰 [Minto Pyramid (Make your communication more efficient and clear)](https://untools.co/minto-pyramid)
+- 📺 [Never Split the Difference](https://www.youtube.com/watch?v=guZa7mQV1l0)
 
+Software Design:
+- 📰 [MLOps: Continuous delivery and automation pipelines in machine learning](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
+- 📕 [A Philosophy of Software Design](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design)
+- 📕 [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications)
 
+I love chess and sneakers, if there is an interesting project you would like to work on together hit me up.
 
 <a align="left" href="https://lichess.org/@/Noakanoi">♟️Challenge me to a game on Lichess♟️ </a>
 <p align="left">
 </p>
-
-
-
-<h3 align="left">Favorite Technologies:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://julialang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/JuliaLang/julia-logo-graphics/b5551ca7946b4a25746c045c15fbb8806610f8d0/images/julia-logo-dark.svg" alt="julia" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>  </p>
 
