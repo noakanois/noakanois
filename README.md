@@ -1,6 +1,6 @@
 
 
-# Hi, I'm Noah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi, I'm Noah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
 <img align="right" src="https://lichess1.org/game/export/gif/black/ozsnbmZN.gif" width="50%" height="50%"/>
 
