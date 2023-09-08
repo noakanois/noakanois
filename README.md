@@ -17,7 +17,6 @@ Communication:
 - 📺 [Never Split the Difference](https://www.youtube.com/watch?v=guZa7mQV1l0)
 
 Software Design:
-- 📰 [MLOps: Continuous delivery and automation pipelines in machine learning](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
 - 📕 [A Philosophy of Software Design](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design)
 - 📕 [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications)
 
